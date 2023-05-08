@@ -33,6 +33,6 @@ public class sec02exam02 {
 	System.out.println("z=" + z);
 	System.out.println("x=" + x);
 	System.out.println("y=" + y);
+	
 	}
-0
 }
