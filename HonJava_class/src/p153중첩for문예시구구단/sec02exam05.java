@@ -1,4 +1,4 @@
-package p153중첩for문예시;
+package p153중첩for문예시구구단;
 
 public class sec02exam05 {
 
